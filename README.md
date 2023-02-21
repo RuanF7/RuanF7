@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently looking for an internship or a junior dev position
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning React
 - 😄 Pronouns: him/his
 
 ###
