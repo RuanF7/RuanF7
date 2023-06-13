@@ -1,4 +1,6 @@
-### Hi there, I am Ruan Finamor!
+###
+
+Hi there, I am Ruan Finamor!
 
 
 - 🔭 I’m currently looking for an internship or a junior dev position
