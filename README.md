@@ -3,8 +3,8 @@
 Hi there, I am Ruan Finamor!
 
 
-- 🔭 I’m currently looking for an internship or a junior dev position
-- 🌱 I’m currently learning React and NextJS
+
+- 🌱 I’m currently learning React Native and Flutter
 - 😄 Pronouns: him/his
 
 ###
